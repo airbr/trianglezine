@@ -18,7 +18,7 @@ html, body {
 body {
   display: flex;
   font-size: 10px;
-  background-color: dimgrey;
+  background-color: steelblue;
   /*rgb(149, 194, 215)*/
   flex-direction: column;
 }
@@ -86,13 +86,15 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+  /* Added for starter animation/ text testing */
+  overflow-y: auto;
 }
 .detail-image-frame {
   position: relative;
   text-align: center;
   height: 90%;
 
-  /*transition: transform 600ms cubic-bezier(1,.07,.51,.82)*/
+  transition: transform 600ms cubic-bezier(1,.07,.51,.82)
 }
 .is-tiny {
   transform: scale(0.001);
