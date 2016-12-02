@@ -1,6 +1,6 @@
 #### Triangle zine project
 
-![](img/dunedintriangle.png)
+![](public/img/dunedintriangle.png)
 
 This is a personal project to finish a creative zine about a cherished if quite 'derro' (Dunedin slang for "derelict") neighborhood in Dunedin, New Zealand. 
 
@@ -20,6 +20,7 @@ This project aims to incorporate some better-design practices to display and int
 ##### Current production
 
 `v0.1` First major push is a working and responsive image slideshow gallery with some basic style elements. It uses Javascript string variables to target the thumbnails and bring the selected thumbnail into focus into the main image container.
+`v0.2` Deployed to Firebase at rapid speed at `https://triangle-zine.firebaseapp.com`
 
 NB: Currently only stand alone Jasmine tests work via `SpecRunner.html`. Actual node implementation of jasmine tests to follow.
 
