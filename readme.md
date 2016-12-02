@@ -1,5 +1,7 @@
 #### Triangle zine project
 
+~[](img/dunedintriangle.png)
+
 This is a personal project to finish a creative zine about a cherished if quite 'derro' (Dunedin slang for "derelict") neighborhood in Dunedin, New Zealand. 
 
 I collaborated with a number of others on work towards this project who have contributed a variety of items in different mediums including:
@@ -24,4 +26,4 @@ This project aims to incorporate some basic visual interaction/structuring of di
 * HTML5
 * CSS3
 * Javascript
-* Jasmine - JS Testing
+* Jasmine - JS Testingg
