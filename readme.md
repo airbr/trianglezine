@@ -1,6 +1,6 @@
 #### Triangle zine project
 
-~[](img/dunedintriangle.png)
+![](img/dunedintriangle.png)
 
 This is a personal project to finish a creative zine about a cherished if quite 'derro' (Dunedin slang for "derelict") neighborhood in Dunedin, New Zealand. 
 
