@@ -1,3 +1,10 @@
+function helloWorld() {
+  return "Hello world from main.js!";
+}
+function escapeKeyBinding() {
+  return ESC_KEY;
+}
+
 var DETAIL_IMAGE_SELECTOR = '[data-image-role="target"]';
 var DETAIL_TITLE_SELECTOR = '[data-image-role="title"]';
 var DETAIL_FRAME_SELECTOR = '[data-image-role="frame"]';
