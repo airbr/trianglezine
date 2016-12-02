@@ -9,7 +9,7 @@ I collaborated with a number of others on work towards this project who have con
 
 ... Full credits where due and production values to follow.
 
-This project aims to incorporate some basic visual interaction/structuring of different kinds of content using good responsive web design and generally best practices in my code where possible.  This is also some of my first practices at making JS unit tests. I have not made tests prior to coding but plan to for additional units added.
+This project aims to incorporate some better-design practices to display and interact with a variety of content as a 'general catch all' of my front-end knowledge.
 
 
 ##### Quick start
@@ -20,6 +20,8 @@ This project aims to incorporate some basic visual interaction/structuring of di
 ##### Current production
 
 `v0.1` First major push is a working and responsive image slideshow gallery with some basic style elements. It uses Javascript string variables to target the thumbnails and bring the selected thumbnail into focus into the main image container.
+
+NB: Currently only stand alone Jasmine tests work via `SpecRunner.html`. Actual node implementation of jasmine tests to follow.
 
 ##### Technologies used
 
